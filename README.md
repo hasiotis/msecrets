@@ -16,3 +16,8 @@ Commands:
   set     Set specific value from the password
   view    View secret
 ```
+
+For now just:
+```
+❯ pipx install git+ssh://git@github.com/hasiotis/msecrets.git
+```
