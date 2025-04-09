@@ -17,7 +17,11 @@ Commands:
   view    View secret
 ```
 
-For now just:
+Install with:
+```
+❯ pipx install msecrets
+```
+or from github:
 ```
 ❯ pipx install git+ssh://git@github.com/hasiotis/msecrets.git
 ```
